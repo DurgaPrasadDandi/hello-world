@@ -1,2 +1,5 @@
 # hello-world
-First one
+
+Hi everyone!!
+
+Durga here. Interested in software development. Majorly experienced in c/c++.
